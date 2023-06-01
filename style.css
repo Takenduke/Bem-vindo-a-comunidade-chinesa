@@ -8,18 +8,21 @@ body {
   background-color: rgb(236, 80, 80);
   height: 50px;
   width: 200px;
+  cursor: pointer;
 }
 
 .recusabtn {
   background-color: rgb(236, 80, 80);
   height: 50px;
   width: 100px;
+  cursor: pointer;
 }
 
 .reset {
   background-color: rgb(236, 80, 80);
   height: 50px;
   width: 100px;
+  cursor: pointer;
 }
 
 .creditoimg {
