@@ -1,0 +1,35 @@
+body {
+  background-image: url(img/download.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.entrebtn {
+  background-color: rgb(236, 80, 80);
+  height: 50px;
+  width: 200px;
+}
+
+.recusabtn {
+  background-color: rgb(236, 80, 80);
+  height: 50px;
+  width: 100px;
+}
+
+.reset {
+  background-color: rgb(236, 80, 80);
+  height: 50px;
+  width: 100px;
+}
+
+.creditoimg {
+  height: 75vh;
+  width: auto;
+}
+
+.butoes {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: auto;
+}
